@@ -1,5 +1,5 @@
 # Awesome Chocolates Employee Data Analysis
-
+## [Project Presentaion](https://github.com/NAVEENKRH/AWESOME-CHOCOLATES/blob/main/Awesome%20chocolates%20ppt.pdf)
 ## Company Background
 Awesome Chocolates is a confectionery company primarily based in New Zealand with a branch in India. This project involves analyzing employee data from both locations to gain insights and create useful visualizations.
 
